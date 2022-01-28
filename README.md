@@ -30,6 +30,9 @@ A <em>**Systems Engineer & Senior Software Developer**</em> passionate about <em
     <img alt="Angular" src="https://img.shields.io/badge/Angular-%2335495e.svg?logo=angular&logoColor=red">
 </a>
 <a href="#">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2310add8.svg?logo=react&logoColor=white">
+</a>
+<a href="#">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
 </a>
 <a href="#">
